@@ -1,0 +1,14 @@
+{
+	"folders":
+	[
+		{
+			"path": "/Users/V/dev/games"
+		}
+	],
+    "settings": {
+        "sublime-view-in-browser": {
+            "baseUrl": "http://localhost:8080",
+            "basePath": "/Users/V/dev/games"
+        }
+    }
+}
